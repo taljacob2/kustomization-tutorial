@@ -11,4 +11,4 @@ commonAnnotations:
 resources:
 - ../../base
 patches:
-- path: map.yaml
+- path: configMap.yaml
